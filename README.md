@@ -72,7 +72,7 @@ Nest is [MIT licensed](LICENSE).
 
 
 ## Overview
-This is a multiplayer game where each side of the game has one player. The game features a dynamic board, player controls, and game logic to handle player connections, paddle positioning, and ball reflection. The game is built using [insert technology stack], and players can join the game after logging in.
+This is a multiplayer game where each side of the game has one player. The game features a dynamic board, player controls, and game logic to handle player connections, paddle positioning, and ball reflection. The game is built using NestJS, Angular, WebSocket, and players can join the game after logging in.
 
 ## Features
 - **Login and Join Game**: Players can log in via a login route and join the game using the `joinGame` function.
